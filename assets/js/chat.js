@@ -32,16 +32,28 @@ function getTime() {
   return time;
 }
 
+function getDate() {
+  let date = new Date();
+
+  const dateFormatted = date.toLocaleDateString("pt-BR", {
+    day: "2-digit",
+    month: "long",
+    year: "numeric",
+  });
+  return dateFormatted;
+}
+
 // Gets the first message
 function firstBotMessage() {
+  const date = getDate();
+  let time = getTime();
+
   let firstMessage = "Bem vindo a nossa central de atendimento. ";
   document.getElementById(
     "botStarterMessage"
   ).innerHTML = `<p class="botText"><span>${firstMessage}</span></p>`;
 
-  let time = getTime();
-
-  $("#chat-timestamp").append(time);
+  $("#chat-timestamp").append(date);
   document.getElementById("userInput").scrollIntoView(false);
 }
 
