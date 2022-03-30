@@ -3,18 +3,20 @@
 
 &#xa0;
 
+<a href="https://chat-bot-wsasouza.netlify.app/">Chat bot Online</a>
+
 </div>
 
 <h1 align="center">Chat bot example</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wsasouza/chat-bot-example?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wsasouza/chat-bot-example?color=FAB105">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wsasouza/chat-bot-example?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wsasouza/chat-bot-example?color=FAB105">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wsasouza/chat-bot-example?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wsasouza/chat-bot-example?color=FAB105">
 
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/wsasouza/chat-bot-example?color=56BEB8">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/wsasouza/chat-bot-example?color=FAB105">
   
 </p>
 
